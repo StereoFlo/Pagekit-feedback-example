@@ -1,0 +1,10 @@
+{
+  "name": "pagekit/contact",
+  "version": "0.1",
+  "type": "pagekit-extension",
+  "title": "Contact form",
+  "extra": {
+    "icon": "icon.png",
+    "scripts": "scripts.php"
+  }
+}
